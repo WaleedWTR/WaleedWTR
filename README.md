@@ -1,12 +1,20 @@
 # Waleed Rana
 
-Service & Incident Management | IT Service Transition | Azure | Cyber Security | Automation
+**Service & Incident Management | IT Service Transition | Azure | Cyber Security | Automation**
 
 I build and improve operational services across incident management, service transition, cloud, security, endpoint engineering, analytics and automation.
 
-This GitHub profile contains sanitised technical reconstructions, labs and portfolio projects based on real-world delivery experience and hands-on engineering work. No employer-confidential, government-sensitive or production data is included.
+This profile contains sanitised technical reconstructions, labs and portfolio projects based on real-world delivery experience and hands-on engineering work. No employer-confidential, government-sensitive or production data is included.
 
-## Core areas
+## Featured project
+
+### Splunk Web Log Analysis
+
+A practical observability and security analytics project covering log ingestion, SPL, dashboarding, detection engineering, investigation guidance, synthetic test data and CI-backed Python validation.
+
+Repository: [Splunk-Web-Log-Analysis](https://github.com/WaleedWTR/Splunk-Web-Log-Analysis)
+
+## Core capability
 
 - IT Service Management and Major Incident Management
 - Service Transition and Continual Service Improvement
@@ -18,62 +26,46 @@ This GitHub profile contains sanitised technical reconstructions, labs and portf
 - Operational analytics, dashboards and reporting
 - Splunk and log analysis
 
-## Portfolio roadmap
+## Portfolio build
 
-### Service Management & Operations
+The portfolio is being developed across five areas:
 
+**Service Management & Operations**
 - Service Request Transition Framework
 - Ivanti Escalation Management
 - Incident Backlog Recovery Analytics
 - Major Incident Management Dashboard
-- Windows 11 Operational Readiness
 - ITSM Data Quality Analysis
-- Knowledge Health Dashboard
-- Continual Service Improvement Tracker
-- Service Operations Reporting Suite
-- Incident Management Automation
 
-### Cyber Security
-
+**Cyber Security**
 - Microsoft Sentinel SOC Lab
 - Defender XDR Threat Investigation
 - Azure Security Hardening
 - Entra ID Security Lab
 - KQL Threat Hunting Library
 - Security Incident Response Lab
-- Microsoft Defender for Endpoint Lab
-- Cloud Security Monitoring
-- Splunk Web Log Analysis
 
-### Azure & Cloud Engineering
-
+**Azure & Cloud Engineering**
 - Azure Enterprise Network Lab
 - Azure Landing Zone Lab
 - Azure Infrastructure as Code
 - Azure Monitoring & Observability
-- Azure VM Enterprise Deployment
-- Secure Azure Storage Deployment
 - Azure Backup & Disaster Recovery
-- Hybrid Identity Azure Lab
 
-### Endpoint & Automation
-
+**Endpoint & Modern Workplace**
 - Intune Device Management Lab
 - Windows Autopilot Deployment
 - Windows 11 Migration Readiness
 - Endpoint Compliance & Security
-- PowerShell Endpoint Automation
+
+**Automation & Engineering**
 - PowerShell IT Automation Toolkit
 - Python ITSM Analytics
 - Azure Automation Runbooks
 - API Integration Lab
 - Infrastructure Health Checker
 
-## Current public project
-
-### Splunk Web Log Analysis
-
-A practical Splunk project covering log ingestion, SPL, dashboarding, error analysis and security-focused web log investigation.
+Full build plan: [PORTFOLIO_ROADMAP.md](PORTFOLIO_ROADMAP.md)
 
 ## Certifications
 
@@ -87,7 +79,7 @@ A practical Splunk project covering log ingestion, SPL, dashboarding, error anal
 
 ## Portfolio standards
 
-Every project in this portfolio aims to include:
+Projects aim to include:
 
 - a clear problem statement
 - architecture and workflow documentation
@@ -95,10 +87,10 @@ Every project in this portfolio aims to include:
 - reproducible code or configuration
 - synthetic or sanitised sample data
 - testing and validation
-- operational or security considerations
+- operational and security considerations
 - evidence of outcomes where appropriate
 - lessons learned and future improvements
 
-## Important note
+## Provenance
 
 Where a project reflects real professional experience, the public repository is a sanitised portfolio reconstruction. Production data, internal systems, organisation names, credentials, sensitive configurations and proprietary material are excluded.
