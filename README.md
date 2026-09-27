@@ -6,13 +6,17 @@ I build and improve operational services across incident management, service tra
 
 This profile contains sanitised technical reconstructions, labs and portfolio projects based on real-world delivery experience and hands-on engineering work. No employer-confidential, government-sensitive or production data is included.
 
-## Featured project
+## Featured portfolio
 
-### Splunk Web Log Analysis
-
-A practical observability and security analytics project covering log ingestion, SPL, dashboarding, detection engineering, investigation guidance, synthetic test data and CI-backed Python validation.
-
-Repository: [Splunk-Web-Log-Analysis](https://github.com/WaleedWTR/Splunk-Web-Log-Analysis)
+| Project | Focus |
+| --- | --- |
+| [Microsoft Sentinel SOC Lab](https://github.com/WaleedWTR/microsoft-sentinel-soc-lab) | Sentinel, Log Analytics, KQL, detection engineering, incident response, Bicep |
+| [Azure Infrastructure as Code](https://github.com/WaleedWTR/azure-infrastructure-as-code) | Modular Bicep, networking, monitoring, secure storage, deployment validation |
+| [Defender XDR Threat Investigation](https://github.com/WaleedWTR/defender-xdr-threat-investigation) | Advanced Hunting, endpoint investigation, identity correlation, evidence timelines |
+| [Major Incident Management Dashboard](https://github.com/WaleedWTR/major-incident-management-dashboard) | ITSM metrics, MTTA/MTTR, Python, Pandas, Streamlit, operational reporting |
+| [PowerShell IT Automation Toolkit](https://github.com/WaleedWTR/powershell-it-automation-toolkit) | Endpoint inventory, health checks, BitLocker, Windows 11 readiness, Pester |
+| [Azure Enterprise Network Lab](https://github.com/WaleedWTR/azure-enterprise-network-lab) | Hub-and-spoke networking, VNets, NSGs, peering, Bicep |
+| [Splunk Web Log Analysis](https://github.com/WaleedWTR/Splunk-Web-Log-Analysis) | SPL, log analysis, security hunting, Python validation, investigation playbooks |
 
 ## Core capability
 
@@ -26,33 +30,34 @@ Repository: [Splunk-Web-Log-Analysis](https://github.com/WaleedWTR/Splunk-Web-Lo
 - Operational analytics, dashboards and reporting
 - Splunk and log analysis
 
-## Portfolio build
+## Portfolio direction
 
-The portfolio is being developed across five areas:
+The portfolio is being developed across five complementary areas:
 
 **Service Management & Operations**
+- Major Incident Management Dashboard
 - Service Request Transition Framework
 - Ivanti Escalation Management
 - Incident Backlog Recovery Analytics
-- Major Incident Management Dashboard
 - ITSM Data Quality Analysis
 
 **Cyber Security**
 - Microsoft Sentinel SOC Lab
 - Defender XDR Threat Investigation
+- Splunk Web Log Analysis
 - Azure Security Hardening
 - Entra ID Security Lab
 - KQL Threat Hunting Library
-- Security Incident Response Lab
 
 **Azure & Cloud Engineering**
+- Azure Infrastructure as Code
 - Azure Enterprise Network Lab
 - Azure Landing Zone Lab
-- Azure Infrastructure as Code
 - Azure Monitoring & Observability
 - Azure Backup & Disaster Recovery
 
 **Endpoint & Modern Workplace**
+- PowerShell IT Automation Toolkit
 - Intune Device Management Lab
 - Windows Autopilot Deployment
 - Windows 11 Migration Readiness
