@@ -4,25 +4,22 @@ This roadmap tracks the public technical portfolio being built around service ma
 
 The intention is quality over quantity. Each public repository should include meaningful code, documentation, synthetic data where useful, tests or validation, and a clear explanation of what capability it demonstrates.
 
-## Current
+## Current portfolio
 
 - [x] Splunk Web Log Analysis
-
-## Priority build
-
-- [ ] Microsoft Sentinel SOC Lab
-- [ ] Azure Infrastructure as Code
-- [ ] Defender XDR Threat Investigation
-- [ ] Major Incident Management Dashboard
-- [ ] PowerShell IT Automation Toolkit
-- [ ] Azure Enterprise Network Lab
+- [x] Microsoft Sentinel SOC Lab
+- [x] Azure Infrastructure as Code
+- [x] Defender XDR Threat Investigation
+- [x] Major Incident Management Dashboard
+- [x] PowerShell IT Automation Toolkit
+- [x] Azure Enterprise Network Lab
 
 ## Service Management & Operations
 
 - [ ] Service Request Transition Framework
 - [ ] Ivanti Escalation Management
 - [ ] Incident Backlog Recovery Analytics
-- [ ] Major Incident Management Dashboard
+- [x] Major Incident Management Dashboard
 - [ ] Windows 11 Operational Readiness
 - [ ] ITSM Data Quality Analysis
 - [ ] Knowledge Health Dashboard
@@ -32,8 +29,8 @@ The intention is quality over quantity. Each public repository should include me
 
 ## Cyber Security
 
-- [ ] Microsoft Sentinel SOC Lab
-- [ ] Defender XDR Threat Investigation
+- [x] Microsoft Sentinel SOC Lab
+- [x] Defender XDR Threat Investigation
 - [ ] Azure Security Hardening
 - [ ] Entra ID Security Lab
 - [ ] KQL Threat Hunting Library
@@ -44,9 +41,9 @@ The intention is quality over quantity. Each public repository should include me
 
 ## Azure & Cloud Engineering
 
-- [ ] Azure Enterprise Network Lab
+- [x] Azure Enterprise Network Lab
 - [ ] Azure Landing Zone Lab
-- [ ] Azure Infrastructure as Code
+- [x] Azure Infrastructure as Code
 - [ ] Azure Monitoring & Observability
 - [ ] Azure VM Enterprise Deployment
 - [ ] Secure Azure Storage Deployment
@@ -59,11 +56,11 @@ The intention is quality over quantity. Each public repository should include me
 - [ ] Windows Autopilot Deployment
 - [ ] Windows 11 Migration Readiness
 - [ ] Endpoint Compliance & Security
-- [ ] PowerShell Endpoint Automation
+- [x] PowerShell IT Automation Toolkit
 
 ## Automation & Engineering
 
-- [ ] PowerShell IT Automation Toolkit
+- [x] PowerShell IT Automation Toolkit
 - [ ] Python ITSM Analytics
 - [ ] Azure Automation Runbooks
 - [ ] API Integration Lab
