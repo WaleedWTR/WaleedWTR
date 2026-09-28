@@ -13,15 +13,25 @@ The intention is quality over quantity. Each public repository should include me
 - [x] Major Incident Management Dashboard
 - [x] PowerShell IT Automation Toolkit
 - [x] Azure Enterprise Network Lab
+- [x] Entra ID Security Lab
+- [x] Intune Device Management Lab
+- [x] Windows Autopilot Deployment
+- [x] Azure Landing Zone Lab
+- [x] KQL Threat Hunting Library
+- [x] Security Incident Response Lab
+- [x] Azure Monitoring & Observability
+- [x] Service Request Transition Framework
+- [x] ITSM Data Quality Analysis
+- [x] Incident Backlog Recovery Analytics
 
 ## Service Management & Operations
 
-- [ ] Service Request Transition Framework
+- [x] Service Request Transition Framework
 - [ ] Ivanti Escalation Management
-- [ ] Incident Backlog Recovery Analytics
+- [x] Incident Backlog Recovery Analytics
 - [x] Major Incident Management Dashboard
 - [ ] Windows 11 Operational Readiness
-- [ ] ITSM Data Quality Analysis
+- [x] ITSM Data Quality Analysis
 - [ ] Knowledge Health Dashboard
 - [ ] Continual Service Improvement Tracker
 - [ ] Service Operations Reporting Suite
@@ -32,9 +42,9 @@ The intention is quality over quantity. Each public repository should include me
 - [x] Microsoft Sentinel SOC Lab
 - [x] Defender XDR Threat Investigation
 - [ ] Azure Security Hardening
-- [ ] Entra ID Security Lab
-- [ ] KQL Threat Hunting Library
-- [ ] Security Incident Response Lab
+- [x] Entra ID Security Lab
+- [x] KQL Threat Hunting Library
+- [x] Security Incident Response Lab
 - [ ] Microsoft Defender for Endpoint Lab
 - [ ] Cloud Security Monitoring
 - [x] Splunk Web Log Analysis
@@ -42,9 +52,9 @@ The intention is quality over quantity. Each public repository should include me
 ## Azure & Cloud Engineering
 
 - [x] Azure Enterprise Network Lab
-- [ ] Azure Landing Zone Lab
+- [x] Azure Landing Zone Lab
 - [x] Azure Infrastructure as Code
-- [ ] Azure Monitoring & Observability
+- [x] Azure Monitoring & Observability
 - [ ] Azure VM Enterprise Deployment
 - [ ] Secure Azure Storage Deployment
 - [ ] Azure Backup & Disaster Recovery
@@ -52,8 +62,8 @@ The intention is quality over quantity. Each public repository should include me
 
 ## Endpoint & Modern Workplace
 
-- [ ] Intune Device Management Lab
-- [ ] Windows Autopilot Deployment
+- [x] Intune Device Management Lab
+- [x] Windows Autopilot Deployment
 - [ ] Windows 11 Migration Readiness
 - [ ] Endpoint Compliance & Security
 - [x] PowerShell IT Automation Toolkit
